@@ -1,0 +1,13 @@
+.head
+{
+    width:100%;
+    font-size:23px;
+    margin:0px;
+}
+
+canvas
+{
+    border:5px solid white;
+    border-radius:20px;
+    margin-top:25%;
+}
